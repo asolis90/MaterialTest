@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import com.materialtest.MainActivity;
 import com.materialtest.R;
@@ -23,6 +24,9 @@ public class FragmentPage2 extends Fragment {
         view = inflater.inflate(R.layout.fragment_page2, container,
                 false);
         act = MainActivity.act;
+        TextView tv = (TextView) view.findViewById(R.id.title);
+        tv.setText("This is Page 2");
+
         return view;
     }
 }
