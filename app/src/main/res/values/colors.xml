@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="focused">#ff5500</drawable>
+    <drawable name="selected">#FF00FF</drawable>
+
+    <color name="prefs_bg">#E3E4E5</color>
+    <color name="colorprimary">#2196F3</color>
+    <color name="colorsecondary">#1976D2</color>
+    <color name="accentcolor">#9FA8DA</color>
+    <color name="white">#FFFFFF</color>
+
+
+
+
+
+
+    <drawable name="item_pressed">#D1D1D1</drawable>
+    <drawable name="item_confignotifpressed">#B8D9ED</drawable>
+    <drawable name="item_pressedgroup">#393E44</drawable>
+    <drawable name="item_pressed_card">#F2F2F2</drawable><drawable name="childitem_focus">#D1D7DD</drawable>
+
+    <!-- custom color for pressed state -->
+    <drawable name="childnormal_color">#E3E4E5</drawable>
+    <!-- transperent color for normal state -->
+
+    <drawable name="listviewnormal_color">#31363E</drawable>
+    <!-- transperent color for normal state -->
+
+    <drawable name="homenormal_color">#44546D</drawable>
+    <!-- transperent color for normal state -->
+
+    <drawable name="homenormal">#E3E4E5</drawable>
+    <drawable name="greetbutton">#31363E</drawable>
+    <drawable name="login_btn">#E3E4E5</drawable>
+    <drawable name="login_btnpressed">#BABABA</drawable>
+    <drawable name="signup_btn">#3E9A45</drawable>
+    <drawable name="signup_btnpressed">#3F8943</drawable>
+    <drawable name="signoutbutton">#DC624C</drawable>
+    <drawable name="signoutpressed">#AF4D48</drawable>
+
+    <!-- transperent color for normal state -->
+
+    <drawable name="readonwebnormal_color">#912033</drawable>
+    <drawable name="rowcardbtnbg">#E3E4E5</drawable>
+    <drawable name="commentprofilecancel">#6A6A6A</drawable>
+    <drawable name="actionmodebtncolor">#FFFEFE</drawable>
+    <!-- transperent color for normal state -->
+    <drawable name="nextarticlenormal_color">#F5F5F5</drawable>
+    <!-- transperent color for normal state -->
+    <drawable name="panelnormal_color">#700682AA</drawable>
+    <!-- transperent color for normal state -->
+
+</resources>
